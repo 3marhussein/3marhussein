@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3marhussein
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Science "Software Engineering"
-- 💞️ I’m looking to collaborate on Data Scientist
+- 💞️ I’m looking to collaborate on Data Scientist fields
 - 📫 How to reach me "Omarhussin018@gmail.com"
 
 <!---
